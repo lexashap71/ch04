@@ -47,7 +47,7 @@ header {
 }
 
 .media:nth-child(odd) {
-    clear: left;
+    clear:  left;
 }
 
 .media-image {
