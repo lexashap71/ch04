@@ -2,6 +2,6 @@
 
 ---
 
-## permalink: /index.html
+## permalink: /m-setka.html
 
 simple test
