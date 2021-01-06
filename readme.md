@@ -1,3 +1,7 @@
 # test
 
-simple test 
+---
+
+## permalink: /index.html
+
+simple test
