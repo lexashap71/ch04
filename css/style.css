@@ -1,0 +1,30 @@
+:root {
+  font-size: 100%;
+}
+
+.text-block {
+  max-width: 40vw;
+  max-height: 6em;
+  /* overflow: hidden; */
+  text-overflow: ellipsis;
+}
+
+.first-letter {
+  font-family: sans-serif;
+  font-size: 1.5rem;
+  font-weight: 300;
+}
+
+.first-letter::first-letter {
+  font-family: serif;
+  font-weight: 800;
+  font-size: 3em;
+  opacity: .5;
+  color: red;
+  text-transform: uppercase;
+  letter-spacing: .03em;
+  line-height: .75em;
+  /* display: inline-block; */
+  float: left;
+  /* margin-left: -3em; */
+}
