@@ -4,7 +4,7 @@
 
 .text-block {
   max-width: 40vw;
-  max-height: 6em;
+  /* max-height: 6em; */
   /* overflow: hidden; */
   text-overflow: ellipsis;
 }
