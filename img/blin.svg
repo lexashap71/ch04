@@ -3,6 +3,7 @@
     <style>
       .cls-1 {
         isolation: isolate;
+        
       }
 
       .cls-2 {
